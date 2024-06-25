@@ -29,7 +29,7 @@ Below are the downloading links of VastTrack. We offer two ways, `GoogleDrive` a
   - The downloading link is [here](https://1drv.ms/f/s!AnWdA-LZ-BEt5W9kQtMU8nB19qpy?e=IYm3eF).
 
 * **Baidu Cloud Drive**
-  - The downloading link is [here](https://pan.baidu.com/s/1_cGe3XR7hgqMSUzQjKaz5A?pwd=qs2c) (you may need the extraction code: `qs2c`).
+  - The downloading link is [here](https://pan.baidu.com/s/1ljgK3fZaVJa9jzjHyhrUTQ?pwd=zbgg) (you may need the extraction code: `zbgg`).
 
 ## :balloon: Citation
 If you find our DTTO useful, please consider giving it a star and citing it. Thanks!

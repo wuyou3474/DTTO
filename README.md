@@ -3,7 +3,22 @@
 You Wu<sup>$\dagger$</sup>, Yuelong Wang<sup>$\dagger$</sup>, Yaxin Liao, Fuliang Wu, Hengzhou Ye, Shuiwang Li<sup>\*</sup><br> ($\dagger$: equal contribution; \*: Corresponding author)<br>
 
 
+## :globe_with_meridians: Downloading DTTO
+### :small_blue_diamond: Organization
 
+Each file has the following organization:
+```
+DTTO
+├── class-1
+│     ├── imgs
+│     └── groundtruth_rect.txt
+└── class-2
+│     ├── imgs
+│     └── groundtruth_rect.txt
+|   ...
+|   ...
+...
+```
 
 ## :balloon: Citation
 If you find our DTTO useful, please consider giving it a star and citing it. Thanks!

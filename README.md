@@ -4,7 +4,7 @@ You Wu<sup>$\dagger$</sup>, Yuelong Wang<sup>$\dagger$</sup>, Yaxin Liao, Fulian
 
 ## News
 **June 25, 2024**
-- DTTO is accepted to PRCV2024 :stuck_out_tongue_closed_eyes: .
+- DTTO is accepted to PRCV2024 .
 
 ## :globe_with_meridians: Downloading DTTO
 ### :small_blue_diamond: Organization

@@ -23,9 +23,9 @@ DTTO
 ...
 ```
 ### :small_blue_diamond: Downloading Links
-Below are the downloading links of VastTrack. We offer two ways, `GoogleDrive` and `Baidu Cloud Drive`, to download the data.
+Below are the downloading links of DTTO. We offer two ways, `GoogleDrive` and `Baidu Cloud Drive`, to download the data.
 
-* **OneDrive**
+* **GoogleDrive**
   - The downloading link is [here](https://1drv.ms/f/s!AnWdA-LZ-BEt5W9kQtMU8nB19qpy?e=IYm3eF).
 
 * **Baidu Cloud Drive**

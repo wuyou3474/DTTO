@@ -26,7 +26,7 @@ DTTO
 Below are the downloading links of DTTO. We offer two ways, `GoogleDrive` and `Baidu Cloud Drive`, to download the data.
 
 * **GoogleDrive**
-  - The downloading link is [here](https://1drv.ms/f/s!AnWdA-LZ-BEt5W9kQtMU8nB19qpy?e=IYm3eF).
+  - The downloading link is [here](https://drive.google.com/file/d/1zeM3gxpL75RL2H_kLQdYQ5beyPF4f3-X/view?usp=sharing).
 
 * **Baidu Cloud Drive**
   - The downloading link is [here](https://pan.baidu.com/s/1ljgK3fZaVJa9jzjHyhrUTQ?pwd=zbgg) (you may need the extraction code: `zbgg`).

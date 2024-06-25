@@ -2,6 +2,9 @@
 [**Tracking Transforming Objects: A Benchmark**](https://arxiv.org/pdf/2404.18143)<br>
 You Wu<sup>$\dagger$</sup>, Yuelong Wang<sup>$\dagger$</sup>, Yaxin Liao, Fuliang Wu, Hengzhou Ye, Shuiwang Li<sup>\*</sup><br> ($\dagger$: equal contribution; \*: Corresponding author)<br>
 
+## News
+**June 25, 2024**
+- DTTO is accepted to PRCV2024 :stuck_out_tongue_closed_eyes: .
 
 ## :globe_with_meridians: Downloading DTTO
 ### :small_blue_diamond: Organization

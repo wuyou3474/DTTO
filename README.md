@@ -22,6 +22,9 @@ DTTO
 |   ...
 ...
 ```
+## :camera: Samples
+<img src="https://github.com/wuyou3474/DTTO/main/assets/samples.png" width="110%">
+
 ### :small_blue_diamond: Downloading Links
 Below are the downloading links of DTTO. We offer two ways, `GoogleDrive` and `Baidu Cloud Drive`, to download the data.
 

@@ -6,6 +6,21 @@ You Wu, Yuelong Wang, Yaxin Liao, Fuliang Wu, Hengzhou Ye, Shuiwang Li<sup>\*</s
 **June 25, 2024**
 - DTTO is accepted to PRCV2024 .
 
+## :camera: Samples
+<img src="https://github.com/wuyou3474/DTTO/blob/main/assets/anno_figs.png" width="110%">
+
+## :triangular_flag_on_post: Benchmarking
+### :small_blue_diamond: Overall Evaluation SOTA Trackers
+<img src="https://github.com/wuyou3474/DTTO/blob/main/assets/prec.png" width="55%">
+<img src="https://github.com/wuyou3474/DTTO/blob/main/assets/succ.png" width="55%">
+
+**Figure:** Overall evaluation of representative SOTA trackers from different years on VastTrack using PRE/SUC.
+
+### :small_blue_diamond: Qualitative Evaluation 
+<img src="https://github.com/wuyou3474/DTTO/blob/main/assets/val_figs.png" width="110%">
+
+**Figure:** Qualitative results of eight representative trackers on six sequences.
+
 ## :globe_with_meridians: Downloading DTTO
 ### :small_blue_diamond: Organization
 
@@ -22,9 +37,6 @@ DTTO
 |   ...
 ...
 ```
-## :camera: Samples
-<img src="https://github.com/wuyou3474/DTTO/blob/main/assets/anno_figs.png" width="110%">
-
 ### :small_blue_diamond: Downloading Links
 Below are the downloading links of DTTO. We offer two ways, `GoogleDrive` and `Baidu Cloud Drive`, to download the data.
 

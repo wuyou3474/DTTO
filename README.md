@@ -13,8 +13,8 @@ You Wu, Yuelong Wang, Yaxin Liao, Fuliang Wu, Hengzhou Ye, Shuiwang Li<sup>\*</s
 ### :small_blue_diamond: Overall Evaluation SOTA Trackers
 <img src="https://github.com/wuyou3474/DTTO/blob/main/assets/prec.png" width="50%"> <img src="https://github.com/wuyou3474/DTTO/blob/main/assets/succ.png" width="50%">
 <div style="display: flex; justify-content: center;">
-    <img src="https://github.com/wuyou3474/DTTO/blob/main/assets/prec.png" style="max-width: 45%; margin-right: 5px;">
-    <img src="https://github.com/wuyou3474/DTTO/blob/main/assets/succ.png" style="max-width: 45%; margin-left: 5px;">
+    <img src="https://github.com/wuyou3474/DTTO/blob/main/assets/prec.png" style="max-width: 20%; margin-right: 5px;">
+    <img src="https://github.com/wuyou3474/DTTO/blob/main/assets/succ.png" style="max-width: 20%; margin-left: 5px;">
 </div>
 
 

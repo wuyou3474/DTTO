@@ -11,8 +11,8 @@ You Wu, Yuelong Wang, Yaxin Liao, Fuliang Wu, Hengzhou Ye, Shuiwang Li<sup>\*</s
 
 ## :triangular_flag_on_post: Benchmarking
 ### :small_blue_diamond: Overall Evaluation SOTA Trackers
-<img src="https://github.com/wuyou3474/DTTO/blob/main/assets/prec.png" width="55%">
-<img src="https://github.com/wuyou3474/DTTO/blob/main/assets/succ.png" width="55%">
+<img src="https://github.com/wuyou3474/DTTO/blob/main/assets/prec.png" width="50%">
+<img src="https://github.com/wuyou3474/DTTO/blob/main/assets/succ.png" width="50%">
 
 **Figure:** Overall evaluation of representative SOTA trackers from different years on VastTrack using PRE/SUC.
 
